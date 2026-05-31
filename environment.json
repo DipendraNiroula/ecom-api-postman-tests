@@ -1,28 +1,28 @@
 {
-	"id": "5318c460-e8c4-4b87-a19e-5a64883ad0a2",
-	"name": "Env1",
-	"values": [
-		{
-			"key": "base_url",
-			"value": "",
-			"type": "default",
-			"enabled": true
-		},
-		{
-			"key": "token",
-			"value": "",
-			"type": "any",
-			"enabled": true
-		},
-		{
-			"key": "product_id",
-			"value": "",
-			"type": "any",
-			"enabled": true
-		}
-	],
-	"color": null,
-	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2026-05-31T11:00:11.488Z",
-	"_postman_exported_using": "Postman/12.12.6"
+    "id": "5318c460-e8c4-4b87-a19e-5a64883ad0a2",
+    "name": "Env1",
+    "values": [
+        {
+            "key": "base_url",
+            "value": "https://dummyjson.com",
+            "type": "default",
+            "enabled": true
+        },
+        {
+            "key": "token",
+            "value": "",
+            "type": "any",
+            "enabled": true
+        },
+        {
+            "key": "product_id",
+            "value": "1",
+            "type": "any",
+            "enabled": true
+        }
+    ],
+    "color": null,
+    "_postman_variable_scope": "environment",
+    "_postman_exported_at": "2026-05-31T11:00:11.488Z",
+    "_postman_using": "Postman/12.12.6"
 }
